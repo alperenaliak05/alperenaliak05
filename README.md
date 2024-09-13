@@ -5,7 +5,7 @@
 🔭 I'm currently working on **.Net, C#, SQL, Java, and JavaScript** projects.
 🌱 Currently, I’m learning and growing my skills in:
   - Backend development with **.Net**
-  - Advanced **SQL** database systems
+  - Begginer **SQL** database systems
   - Web development with **JavaScript** frameworks
 
 ---
