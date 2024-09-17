@@ -5,7 +5,7 @@
 🔭 I'm currently working on **.Net, C#, SQL, Java, and JavaScript** projects.
 🌱 Currently, I’m learning and growing my skills in:
   - Backend development with **.Net**
-  - Begginer **SQL** database systems
+  - Begginer **MSSQL** database systems
   - Web development with **JavaScript** frameworks
 
 ---
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-4479A1?style=flat&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
